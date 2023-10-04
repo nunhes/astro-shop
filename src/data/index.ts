@@ -18,38 +18,38 @@ export enum ProductCategory {
   export const products: Product[] = [
     {
       id: 32,
-      name: "705 Shirt Brave",
-      slug: "t-705-shirt-brave",
-      price: 129,
+      name: "SempreGZ",
+      slug: "shirt-sempre-gz",
+      price: 19.01,
       description:
-        "Stay Brave with the 705 Shirt from Ryan Hoffman Collection. Show your bravery and drinks some beer with.",
-      cover: "/products/ryan-hoffman-A7f7XRKgUWc-unsplash.webp",
+        "Manifesta teu orgullo cultural con esta camiseta de estilo clásico e un eslogan sentido: Sempre Galiza!.",
+      cover: "https://ih1.redbubble.net/image.844340600.5685/ssrco,classic_tee,womens,5a1f32:a6197194c6,front_alt,square_product,600x600.jpg",
       coverCredits:
-        "https://unsplash.com/photos/A7f7XRKgUWc?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
+        "La Chataigne Galicienne",
       category: ProductCategory.Shirts,
     },
     {
       id: 18,
-      name: "Haryo Setyadi Shirt",
-      slug: "haryo-setyadi-shirt",
-      price: 199,
+      name: "Sotaque Galego",
+      slug: "shirt-sotaque-galego",
+      price: 19.01,
       description:
-        "Feel the Comfort and Peace of the Haryo Setyadi Shirt white as snow. Don't worry about the stain, it's easy to clean.",
-      cover: "/products/haryo-setyadi-acn5ERAeSb4-unsplash.webp",
+        "Un idioma, a nosa fala, é o máis grande tesouro para un pobo. Eu gosto (moito) teu sotaque galego. Ilustración vintage.",
+      cover: "https://ih1.redbubble.net/image.844331806.9005/ssrco,chiffon_top,womens,black,front,square_product,x600-bg,f8f8f8.1u2.jpg",
       coverCredits:
-        "https://unsplash.com/photos/acn5ERAeSb4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
+      "La Chataigne Galicienne",
       category: ProductCategory.Shirts,
     },
     {
       id: 21,
-      name: "Faith Yarn shirt",
-      slug: "faith-yarn-shirt",
-      price: 59,
+      name: "MiR",
+      slug: "shirt-m-i-r-panal",
+      price: 30.35,
       description:
-        "Elevate Your Style and Comfort with the Faith Yarn Shoes. Designed to stay cool and dry all day.",
-      cover: "/products/faith-yarn-Wr0TpKqf26s-unsplash.webp",
+        "A palabra rusa MIR quere dicir paz. E de aí non nos van mover. Non á guerra!",
+      cover: "https://ih1.redbubble.net/image.1077740962.6443/gptr,1265x,front,black-c,330,402,600,600-bg,f8f8f8.jpg",
       coverCredits:
-        "https://unsplash.com/photos/Wr0TpKqf26s?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
+      "La Chataigne Galicienne",
       category: ProductCategory.Shirts,
     },
   
@@ -62,7 +62,7 @@ export enum ProductCategory {
         "Stay Cool and Dry with the T Shirt 32 from Ryan Hoffman Collection. Relax, run, dream.",
       cover: "/products/ryan-hoffman-6Nub980bI3I-unsplash.webp",
       coverCredits:
-        "https://unsplash.com/photos/6Nub980bI3I?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
+      "La Chataigne Galicienne",
       category: ProductCategory.Shirts,
     },
   ];
